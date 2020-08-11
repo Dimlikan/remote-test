@@ -16,3 +16,12 @@
    text-align: center;
    color: #fff;
 }
+
+.footer {
+   background-color: Slategrey;
+   padding: 50px;
+   font-size: 32px;
+   font-family: Sans-Serif;
+   text-align: center;
+   color: #fff;
+}
